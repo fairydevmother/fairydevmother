@@ -1,7 +1,7 @@
 <h1>Hi ! Sam I am. 💜</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fairydevmother&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-### I build site with express and laravel. Currently learning React and 3D art/Blender.<br> Love building back-end. Interested in game development with Unreal engine.
+### I build site with express and laravel. Currently learning React and 3D art/Blender.<br> Love building back-end. Interested in game development with Unreal engine. 
 - 🤔 I’m looking for help with how to start contributing and learning from the communities.
 
 
@@ -17,3 +17,10 @@
 ### I am still learning:
 
 [![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,blender,react&theme=light)](https://skills.thijs.gg)
+
+<br>
+
+### Here's my blog about Technology and Development:
+
+
+<a href="https://fairydevmother.substack.com/"> ![cover](https://user-images.githubusercontent.com/83734354/180300033-eba6f284-faf0-40ff-9323-a69b30d25593.png) </a> 
