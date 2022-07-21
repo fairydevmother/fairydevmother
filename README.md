@@ -1,11 +1,19 @@
-### Hi ! Sam I am. 👋
+<h1>Hi ! Sam I am. 💜</h1>
 
-
-- 🔭 I’m currently working on my first portfolio site.
-- 🌱 I’m currently learning React and 3D art/Blender.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fairydevmother&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### I build site with express and laravel. Currently learning React and 3D art/Blender.<br> Love building back-end. Interested in game development with Unreal engine.
 - 🤔 I’m looking for help with how to start contributing and learning from the communities.
 
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairydevmother&show_icons=true&theme=synthwave)
+<!-- Markdown -->
+<br>
 
-![Metrics](https://metrics.lecoq.io/fairydevmother?template=terminal&base.activity=0&isocalendar=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FIstanbul)
+### Here's some technologies I use:
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,bootstrap,jquery,nodejs,laravel,mysql,mongodb,express&theme=light)](https://skills.thijs.gg)
+
+<br>
+
+### I am still learning:
+
+[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,blender,react&theme=light)](https://skills.thijs.gg)
