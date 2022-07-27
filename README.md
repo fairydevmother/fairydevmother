@@ -22,5 +22,4 @@
 
 ### Here's my blog about Technology and Development:
 
-
 <a href="https://fairydevmother.substack.com/"> ![cover](https://user-images.githubusercontent.com/83734354/180300033-eba6f284-faf0-40ff-9323-a69b30d25593.png) </a> 
