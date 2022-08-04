@@ -2,8 +2,8 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fairydevmother&theme=tokyonight)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fairydevmother&theme=cobalt)](https://git.io/streak-stats)
 
 ### I build sites with express and laravel. Currently learning React and 3D art/Blender.<br> Love building back-end. Interested in game development with Unreal engine. 
 - 🤔 I’m looking for help with how to start contributing to open source and learning from the communities.
