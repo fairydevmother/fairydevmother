@@ -12,13 +12,13 @@
 
 ### Here's some technologies I use:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,bootstrap,jquery,nodejs,laravel,mysql,mongodb,express&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,react,typescript,javascript,bootstrap,jquery,nodejs,laravel,mysql,mongodb,express&theme=light)](https://skills.thijs.gg)
 
 <br>
 
 ### I am still learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,blender,react&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,blender&theme=light)](https://skills.thijs.gg)
 
 <br>
 
