@@ -3,8 +3,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fairydevmother&theme=dark)](https://git.io/streak-stats)
 
 
-### I build sites with express and laravel. Currently learning React and 3D art/Blender.<br> Love building back-end. Interested in game development with Unreal engine. 
-- 🤔 I’m looking for help with how to start contributing to open source and learning from the communities.
+### I prefer to call myself a forever scholar. I guess that is why the developer's journey just the thing what I needed to keep learning constantly. 
+- 🤔 I would love to contribute different projects.
 
 
 <!-- Markdown -->
@@ -12,18 +12,18 @@
 
 ### Here's some technologies I use:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,react,typescript,javascript,bootstrap,jquery,nodejs,laravel,mysql,mongodb,express&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,typescript,javascript,bootstrap,jquery,nodejs,mysql,mongodb,express&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
 ### I am still learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,blender&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
 ### Here's my blog about Technology and Development:
 
-<a href="https://fairydevmother.substack.com/"> ![cover](https://user-images.githubusercontent.com/83734354/180300033-eba6f284-faf0-40ff-9323-a69b30d25593.png) </a> 
+<a href="https://fairydevmother.substack.com/">Fairy Dev Mother</a> 
 
 [![Generic badge](https://img.shields.io/badge/contact-me-purple.svg)](mailto:smkaraca06@gmail.com)
