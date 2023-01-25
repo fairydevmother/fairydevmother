@@ -1,6 +1,6 @@
 <h1>Hi ! Sam I am. 💜</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fairydevmother&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fairydevmother)](https://git.io/streak-stats)
 
 
 ### I prefer to call myself a forever scholar. I guess that is why the developer's journey just the thing what I needed to keep learning constantly. 
