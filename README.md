@@ -18,7 +18,7 @@
 
 ### I am still learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,python,cpp&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
