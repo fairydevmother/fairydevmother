@@ -13,7 +13,7 @@
 ### I am still learning:
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,blender&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unrealengine,cpp,python&theme=light)](https://skills.thijs.gg)
 
 <br>
 
