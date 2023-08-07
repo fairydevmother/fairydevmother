@@ -1,7 +1,7 @@
 # Hi, Sam I am. 💜
 
 ### I prefer to call myself a forever scholar. I guess that is why the developer's journey just the thing what I needed to keep learning constantly. 
-- 🤔 I would love to contribute different projects.
+- 🤔 I would love to contribute to different projects.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fairydevmother&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
